@@ -61,12 +61,12 @@
     "karma-mocha": "2.0.1",
     "karma-mocha-reporter": "2.2.5",
     "mocha": "8.1.1",
-    "npm-check-updates": "7.1.1",
+    "npm-check-updates": "19.3.2",
     "nyc": "15.1.0",
     "prettier": "2.0.5",
     "sinon": "9.0.3",
     "sinon-chrome": "3.0.1",
-    "web-ext": "5.0.0"
+    "web-ext": "9.3.0"
   },
   "dependencies": {}
 }
